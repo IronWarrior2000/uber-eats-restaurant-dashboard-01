@@ -1,10 +1,11 @@
- 
+import DetailedOrder from "./modules/DetailedOrder";
+
 function App() {
   return (
-    <div>
-      <span>Hello!</span>
-    </div>
+    <DetailedOrder/>
   );
 }
+
+
 
 export default App;
